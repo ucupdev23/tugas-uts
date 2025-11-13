@@ -124,7 +124,7 @@ nav a {
 /*footer*/
 .foot {
     background: linear-gradient(90deg, #007bff);
-    color: #ddd;
+    color: red;
     text-align: center;
     font: size 10px; 5px;
     box-shadow: 0 -2px 8px rgba(1,2,0,7);
