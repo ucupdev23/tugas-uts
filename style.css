@@ -1,0 +1,133 @@
+/* Eksternal CSS Utama */
+/*--- Layout Dasar ---*/
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    background:#038df6;
+    color: #e8e8e8;
+}
+/*Heading CSS*/
+.head{
+ext-align: center;
+    padding: 90px 20px;
+    background: linear-gradient(180deg,#ddd, #038df6);
+    border-bottom: px solid blue;
+    margin-bottom: 30px;
+}
+/*biodata*/
+.biodata {
+    background-color: #ddd;
+    color: #038df6;
+    margin: 15% ;
+    padding: 30px;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.biodata p {
+    font-size: large;
+    text-align: justify;
+}
+.biodata h1 {
+    color: #038df6;
+    text-align: center;
+
+}
+.biodata h2 {
+    color: #038df6;
+    text-align: start;
+    font-size: large;
+    font-weight: bold;
+    border-bottom: 3px solid #007bff;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+    letter-spacing: 1px;
+
+
+
+
+}
+
+/*Nav bar*/
+nav ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    background-color: #ddd;
+    padding: 10px;
+}
+nav li {
+    margin: 0 15px;
+}
+nav a {
+    color:#038df6;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* BOX */
+.box1 {
+    flex: 1;
+    min-width: 250px;
+    color: #038df6;
+    background: #ddd;
+    border: 2px solid blue; 
+    padding: 20px; 
+    border-radius: 12px;
+    margin-bottom: 20px;      
+    transition: 0.3s;
+}
+.box2 {
+    flex: 1;
+    min-width: 250px;
+    color: #038df6;
+    background: #ddd;
+    border: 2px solid blue; 
+    padding: 20px; 
+    border-radius: 12px;
+    margin-bottom: 20px;      
+    transition: 0.3s;
+}
+.box3 {
+    flex: 1;
+    min-width: 250px;
+    color: #038df6;
+    background: #ddd;
+    border: 2px solid blue; 
+    padding: 20px; 
+    border-radius: 12px;
+    margin-bottom: 20px;      
+    transition: 0.3s;
+}
+.box4 {
+    flex: 1;
+    min-width: 250px;
+    color: #038df6;
+    background: #ddd;
+    border: 2px solid blue; 
+    padding: 20px; 
+    border-radius: 12px;
+    margin-bottom: 20px;      
+    transition: 0.3s;
+}
+.box5 {
+    flex: 1;
+    min-width: 250px;
+    color: #038df6;
+    background: #ddd;
+    border: 2px solid blue; 
+    padding: 20px; 
+    border-radius: 12px;
+    margin-bottom: 20px;      
+    transition: 0.3s;
+}
+
+/*footer*/
+.foot {
+    background: linear-gradient(90deg, #007bff);
+    color: #ddd;
+    text-align: center;
+    font: size 10px; 5px;
+    box-shadow: 0 -2px 8px rgba(1,2,0,7);
+    letter-spacing: 0,5px;
+
+}
